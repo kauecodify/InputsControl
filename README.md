@@ -1,6 +1,6 @@
 # InputsControl
 
-**Pequeno código em Python/sqlite para controle de insumos empresariais**
+**Pequeno código em Python com banco de dados sqlite para controle de valores e classificações**
 
 1 - register > log
 
